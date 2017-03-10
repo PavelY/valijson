@@ -1,0 +1,10 @@
+#
+# voxel-test
+#
+---
+# policies:
+#     no_auto_import: true
+
+exports:
+    header-dirs:
+        - include
