@@ -6,6 +6,6 @@
 #     no_auto_import: true
 
 exports:
-    header-dirs: ['include']
+    header-dirs: ['.']
     modules:
-        valijson: include
+        valijson: .
